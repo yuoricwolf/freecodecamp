@@ -1,0 +1,20 @@
+<style> 
+  h2{font-size:20;font-family:Lobster;}
+  p{font-family:Lobster;}
+</style>
+<div class="container-fluid">
+<div class="row">
+    <div class="col-xs-12">
+ <h1 class="text-primary text-center">Uzi</h1>
+ <h2 class="text-center font-size"> the best AD in the world</h2></div>
+    </div>
+ <img class="img-responsive" src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=b71207428f94a4c21e2eef796f9d70b0/4e4a20a4462309f7f1c84b5f7a0e0cf3d6cad6dc.jpg">
+<div class="col-xs-4">
+  <ul>
+<li><p>passage1/passage1/passage1</p></li>
+    <li><p>passage2/passage2/passage2</p></li>
+    <li><p>passage3/passage3/passage3/</p></li>
+  </ul>
+  </div>
+  </div>
+click <a href="https://baike.baidu.com/item/简自豪/14190783?fromtitle=Uzi&fromid=20207029&fr=aladdin">here</a> to know more about him!
